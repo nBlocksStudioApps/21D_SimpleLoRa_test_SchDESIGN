@@ -1,0 +1,14 @@
+Wire List
+
+<<< Component List >>>
+SimpleLoRa                      B1             
+StringSerial                    B4             
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00002] NetB1_2
+        B1         2       payload        OUTPUT      SimpleLoRa
+        B4         1       TX             INPUT       StringSerial
+
