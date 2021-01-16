@@ -2,5 +2,5 @@ Designator,Comment,Parameter 1,nBlocksParameter1,Parameter 2,nBlocksParameter2,P
 
 "A1","Ticker","","5000","","","","","","","","","","","","","https://github.com/nBlocksStudioNodes/nblocks_ticker","","","","","","","","","","","","","","","","",""
 "A2","Counter","AutoResetValue","12","","","","","","","","","","","","","https://github.com/nBlocksStudioNodes/nblocks_counter","","","","","","","","","","","","","","","","",""
-"A3","StringFormat","formatString","""%d ""","","","","","","","","","","","","","https://github.com/nBlocksStudioNodes/nblocks_stringformat","","","","","","","","","","","","","","","","",""
+"A3","StringFormat","formatString","""TXboard Counter=%d ""","","","","","","","","","","","","","https://github.com/nBlocksStudioNodes/nblocks_stringformat","","","","","","","","","","","","","","","","",""
 "A4","SimpleLoRa","cmwx1zzabz","true","Frequency","868.0","PreambleMSB","0x00","PreambleLSB","0x08","CodingRate","4","SpreadingFactor","9","Bandwith","250.0","https://github.com/nBlocksStudioNodes/nblocks_simplelora","false","CrcOn","false","20","PA_7","PA_6","PB_3","PA_15","PC_0","PB_4","PB_1","0","POWER_0","PA_12","true","PB_6","PB_7"
